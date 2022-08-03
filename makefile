@@ -9,7 +9,7 @@ LIBS= -lcnvmap.1 -lshf.1 -loldcnvmap.1 -lgrd.1 -loldgrd.1 -lradar.1 \
 	  -laacgm_v2.1 -ligrf_v2.1 -lastalg.1 -lmlt_v2.1 -lrtime.1
 
 
-MYLIB=/home/wab5217/src/lib/
+MYLIB=./
 
 
 .c.o:
